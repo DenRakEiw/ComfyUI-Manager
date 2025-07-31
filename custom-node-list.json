@@ -30528,6 +30528,17 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        },
+                {
+            "author": "DenRakEiw",
+            "title": "DenRakEiw Nodes",
+            "id": "denrakeiw-nodes",
+            "reference": "https://github.com/DenRakEiw/DenRakEiw_Nodes",
+            "files": [
+                "https://github.com/DenRakEiw/DenRakEiw_Nodes"
+            ],
+            "install_type": "git-clone",
+            "description": "A collection of nodes for image generation, manipulation, color generator, and a extension for transparent images (Flux LayerDiffuse, TransparentVAE). Flux LayerDiffuse loader/decoder, more details can be found in the README."
         }
     ]
 }

@@ -61029,6 +61029,16 @@
             ],
             "install_type": "git-clone",
             "description": "OpenAI API based prompt rewriting agents for MiniMax H3 T2VA/I2VA/L2VA/FL2VA and Ref2VA workflows, using the official H3 skill files."
+        },
+        {
+            "author": "DenRakEiw",
+            "title": "ComfyGotchi",
+            "reference": "https://github.com/DenRakEiw/ComfyGotchi",
+            "files": [
+                "https://github.com/DenRakEiw/ComfyGotchi"
+            ],
+            "install_type": "git-clone",
+            "description": "A Tamagotchi that lives inside ComfyUI — feeds on your AI slop, evolves, feels love from API nodes."
         }
     ]
 }
